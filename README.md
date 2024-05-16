@@ -1,16 +1,25 @@
-<h2 align="center">Hi 👋! My what's up</h2>
+<h2 align="left">Hi 👋! My what's up</h2>
 
 ###
 
-<p align="left">My name is Smoeury Songvat,</p>
+<p align="left">Passionate and skilled back-end developer with expertise in the MERN stack. Adept at building robust, scalable, and efficient back-end solutions. Currently enhancing my skills and knowledge through a bootcamp at Sabaicode and academic studies at the Royal University of Phnom Penh (RUPP).</p>
 
 ###
 
-<h2 align="left">Social media</h2>
+<h2 align="left">Education</h2>
 
 ###
+<p align="left">
+  
+  - **Royal University of Phnom Penh:** Bachelor Degree of Science in Computer Science
+Expected Graduation: [2027]</p>
 
-<p align="left">My name is Smoeury Songvat,</p>
+<p align="left">
+
+
+- **Sabaicode:** Back-End Development Bootcamp
+Expected Completion: [6, 2024]</p>
+
 
 ###
 
@@ -29,7 +38,15 @@
 
 ###
 
-<p align="left">My name is Smoeury Songvat,</p>
+<p align="left">
+  
+- **Programming Languages**: JavaScript,Typescript, Node.js , C++
+Frameworks & Libraries: Express.js, React.js (for MERN stack)
+Databases: MongoDB, SQL Server
+Architectural style Desgign: Microservice && Monolithic
+Tools & Platforms: Git, Docker, RESTful APIs, Postman, swagger, jes ....
+Other : Agile methodologies
+</p>
 
 ###
 
