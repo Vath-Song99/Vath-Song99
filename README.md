@@ -1,8 +1,4 @@
-<h2 align="left">Hi 👋! My what's up</h2>
-
-###
-
-<p align="left">Passionate and skilled back-end developer with expertise in the MERN stack. Adept at building robust, scalable, and efficient back-end solutions. Currently enhancing my skills and knowledge through a bootcamp at Sabaicode and academic studies at the Royal University of Phnom Penh (RUPP).</p>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 
@@ -39,16 +35,6 @@ Expected Completion: [6, 2024]</p>
 ###
 
 <p align="left">
-  
-- **Programming Languages**: JavaScript,Typescript, Node.js , C++
-Frameworks & Libraries: Express.js, React.js (for MERN stack)
-Databases: MongoDB, SQL Server
-Architectural style Desgign: Microservice && Monolithic
-Tools & Platforms: Git, Docker, RESTful APIs, Postman, swagger, jes ....
-Other : Agile methodologies
-</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="33" alt="javascript logo"  />
