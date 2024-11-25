@@ -1,39 +1,3 @@
-<h2 align="left">Hi 👋!</h2>
-
-###
-
-<h2 align="left">Education</h2>
-
-###
-<p align="left">
-  
-  - **Royal University of Phnom Penh:** Bachelor Degree of Science in Computer Science
-Expected Graduation: [2027]</p>
-
-<p align="left">
-
-
-- **Sabaicode:** Back-End Development Bootcamp
-Expected Completion: [6, 2024]</p>
-
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-###
-
-<h2 align="left">Teachnologies</h2>
-
-###
-
 <p align="left">
 
 <div align="left">
